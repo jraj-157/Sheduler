@@ -13,7 +13,8 @@ $ git clone https://github.com/jraj-157/Sheduler.git
 
 You must have installed the node to run the npm or you may prefer yarn.
 For node (https://nodejs.org/en/) 
-```# check version
+check version
+```
 node -v
 npm -v
 ```

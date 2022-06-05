@@ -1,0 +1,165 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background-color: #3b3a35;
+  min-height: 70vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: hsl(198, 1%, 29%);
+  font-family: cursive;
+  text-align: center;
+  font-size: 130%;
+}
+
+header {
+  background-color: #3b3a35;
+  margin: auto -12px;
+  padding: 20px 42px;
+  margin-top: 10px;
+}
+
+header h1 {
+  text-align: center;
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+
+.card-one {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 430px;
+  margin: 16px;
+  float: left;
+}
+.card-one  h2{
+  font-size: 2em;
+  margin-bottom: 6px;
+  text-align: center;
+}
+.card-one img {
+  margin: 30px 20px 0 0;
+}
+.bottom{
+  padding: auto;
+}
+.Monday , .Tuesday ,.Wednesday,.Thursday,.Friday,.Weekend {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: inherit;
+  padding: 14px 28px;
+  cursor: pointer;
+  display: inline-block;
+  margin-left: 120px;
+  text-decoration: none;
+}
+
+.Monday:hover {
+  background: #eee;
+}
+.Tuesday:hover {
+  background: #eee;
+}
+.Wednesday:hover {
+  background: #eee;
+}
+.Thursday:hover {
+  background: #eee;
+}
+.Friday:hover {
+  background: #eee;
+}
+.Weekend:hover {
+  background: #eee;
+} 
+
+
+.circle-img{
+  width: 400px;
+}
+.container {
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  max-width: 500px;
+  min-width: 800px;
+  background: #f1f5f8;
+  background-size: 25px 25px;
+  border-radius: 20px;
+  box-shadow: 4px 3px 7px 2px #00000040;
+  padding: 1rem;
+  box-sizing: border-box;
+  
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.heading h1 {
+  padding: 0.2rem 1.2rem;
+  border-radius: 100% solid transparent;
+  background-color: #5abf64;
+  font-size: 1.5rem;
+}
+
+.form input {
+  box-sizing: border-box;
+  background-color: transparent;
+  padding: 0.7rem;
+  border-bottom-right-radius: 15px 3px;
+  border-bottom-left-radius: 3px 15px;
+  border: solid 1px black;
+  font-family: cursive;
+  font-size: 1rem;
+  color: hsla(260, 2%, 25%, 0.7);
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font-family: cursive;
+  text-decoration: none;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  background-color: black;
+  cursor: pointer;
+}
+
+button span {
+  background: #f1f5f8;
+  display: block;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: 2px solid hsl(198, 1%, 29%);
+}
+button span:hover {
+  background-color: #5abf64;
+}
+
+li {
+  text-align: left;
+  position: relative;
+  padding: 0.5rem;
+  margin-left: 50px;
+}
+.Homepage {
+  margin-top: 100px;
+  font-size: 2rem;
+  cursor: pointer;
+}

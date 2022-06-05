@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Sheduler/static/js/main.0f54d7c9.chunk.js",
+    "main.js.map": "/Sheduler/static/js/main.0f54d7c9.chunk.js.map",
+    "runtime-main.js": "/Sheduler/static/js/runtime-main.41309e1d.js",
+    "runtime-main.js.map": "/Sheduler/static/js/runtime-main.41309e1d.js.map",
+    "static/js/2.bd852f2c.chunk.js": "/Sheduler/static/js/2.bd852f2c.chunk.js",
+    "static/js/2.bd852f2c.chunk.js.map": "/Sheduler/static/js/2.bd852f2c.chunk.js.map",
+    "index.html": "/Sheduler/index.html",
+    "precache-manifest.d3a21da1e2f7bc13da0076edf8df2593.js": "/Sheduler/precache-manifest.d3a21da1e2f7bc13da0076edf8df2593.js",
+    "service-worker.js": "/Sheduler/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41309e1d.js",
+    "static/js/2.bd852f2c.chunk.js",
+    "static/js/main.0f54d7c9.chunk.js"
+  ]
+}
